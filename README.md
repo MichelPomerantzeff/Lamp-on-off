@@ -1,1 +1,1 @@
-# Exploring responses of mouse action on an image
+# Exploring responses of mouse action on an image.
